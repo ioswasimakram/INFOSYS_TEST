@@ -1,0 +1,6 @@
+framework module Pods_INFOSYS_TESTTests {
+  umbrella header "Pods-INFOSYS_TESTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

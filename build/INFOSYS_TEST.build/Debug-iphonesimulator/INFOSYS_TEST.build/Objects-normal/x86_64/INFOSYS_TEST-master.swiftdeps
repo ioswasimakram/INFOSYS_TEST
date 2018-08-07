@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "c740ae8d607f1e80fe8e14ce67850e76"
+build_time: [1533524230, 509751000]
+inputs:
+  "/Users/wasim/Desktop/AboutCanadaPoc/ViewController.swift": [1533524229, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/Model/Detail.swift": [1533445013, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/CountryDetailTableViewCell.swift": [1533444948, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/Validation/ValidationHandler.swift": [1533444948, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/AppDelegate.swift": [1533440813, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/Parser/ParserHandler.swift": [1533444948, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/Model/Country.swift": [1533445013, 0]
+  "/Users/wasim/Desktop/INFOSYS_TEST/INFOSYS_TEST/Web Service /WebServiceHandler.swift": [1533445013, 0]

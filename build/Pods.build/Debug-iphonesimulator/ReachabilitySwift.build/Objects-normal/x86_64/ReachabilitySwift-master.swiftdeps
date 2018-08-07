@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "b42729264d771c451dd80764b01379f7"
+build_time: [1533444157, 333701000]
+inputs:
+  "/Users/wasim/Desktop/INFOSYS_TEST/Pods/ReachabilitySwift/Reachability/Reachability.swift": [1533444095, 0]
